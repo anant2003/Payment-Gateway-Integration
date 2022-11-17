@@ -62,7 +62,7 @@
 	text-align: center;
 }
 .center .buttons{
-	margin: 35px 300px;
+	margin: 35px 280px;
 }
 .buttons button{
 	height: 50px;
@@ -79,6 +79,7 @@
 }
 .buttons .btn2{
 	margin-left: 25px;
+	margin-top:20px;
 }
 .buttons button:hover{
 	background: #ce4f4f;
